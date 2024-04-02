@@ -1,0 +1,7 @@
+formularz w react nirmalnie jak w html <form></form
+
+
+
+sprawdzic co to select option 
+  <select>{Array.from({ length: 20 }, (_, i) => i + 1)}</select>
+      <input type="text" placeholder="Item..." />
